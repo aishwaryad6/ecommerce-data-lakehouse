@@ -23,6 +23,12 @@ It follows the **Medallion Architecture (Bronze, Silver, Gold layers)** to enabl
 
 ---
 
+## 🧱 Architecture Diagram  
+
+![Architecture Diagram](docs/Data_Architecture_Diagram.png)  
+
+---
+
 ## 🛠️ Tech Stack  
 
 - **Azure Data Factory** → Data ingestion pipelines  
